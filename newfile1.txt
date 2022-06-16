@@ -1,2 +1,4 @@
 $ git add newfile.txt
 hello everyone :)
+
+it's gonna change everyone's life
